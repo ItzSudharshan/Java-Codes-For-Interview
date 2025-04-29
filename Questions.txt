@@ -58,3 +58,29 @@ Output: Print only those Fibonacci numbers which are prime.
 --------------------------------------
 25) Write a Program to Identify Vowel or Consonent 
 --------------------------------------
+26) Write a Program to Get the N Even Number 
+--------------------------------------
+27) //Write a Java Program to find the squareroot of the number without using Sqrt function and use Binary search 
+--------------------------------------
+28) Write a Program to Find the Power of A Number 
+--------------------------------------
+29) Write a Program to Check is a Number is Strong Number or not 
+1! + 4! + 5! = 1 + 24 + 120 = 145
+--------------------------------------
+30) //Java Program to check if Number is Automorphic number or not 
+5² = 25 → ends with 5 ✅
+--------------------------------------
+31) Program to Check if a Number is Harshad Number or Not 
+18
+
+Sum of digits = 1 + 8 = 9
+
+18 ÷ 9 = 2 → divisible ✅
+So, 18 is a Harshad Number.
+--------------------------------------
+32) //java Program for abundant number 
+//An abundant number is a positive integer where the sum of its proper divisors is greater than the number itself
+-------------------------------------
+33) //Java Program to check Friendly Pair or Not 6 and 28 |||divisiors of 6 and 28 is (1+2+3)/6 = 1 and in case of 28 it is 1+2+4+7+14/28 = 1
+//therfore its a friendly pair 
+------------------------------------
