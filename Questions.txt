@@ -84,3 +84,18 @@ So, 18 is a Harshad Number.
 33) //Java Program to check Friendly Pair or Not 6 and 28 |||divisiors of 6 and 28 is (1+2+3)/6 = 1 and in case of 28 it is 1+2+4+7+14/28 = 1
 //therfore its a friendly pair 
 ------------------------------------
+34) Write a  Program to Calculate the HCF or LCM of a Number 
+------------------------------------
+35) Write a Program to convert a Number from Binary to Decimal 
+------------------------------------
+36) Write a Program to convert a Number from Octal to Decimal 
+------------------------------------
+37) Write a Program to convert a Number from Hexadecimal to Decimal 
+------------------------------------
+38) Write a Program to Replace All Zeroes With Ones 
+-----------------------------------
+39) Write a Program to perform Addtion of Fractions and Get the Simplfied Result 
+-----------------------------------
+40)Write a Program to Calculate the Area of the Circle 
+-----------------------------------
+41) 
