@@ -98,4 +98,23 @@ So, 18 is a Harshad Number.
 -----------------------------------
 40)Write a Program to Calculate the Area of the Circle 
 -----------------------------------
-41) 
+41) Write a Program to Convert Number to Words 
+-----------------------------------
+42) Write a Program to Get the Number of Days in any Month in any Given Year 
+-----------------------------------
+43) Write a Program to Count the Occurance of Given Digit in a number 
+-----------------------------------
+44) Write a Program to find the Roots of a Quadratic Equation 
+-----------------------------------
+45) Write a Program to Find the Smallest Element in the Array 
+-----------------------------------
+46)Write a Program to Find the Largest Element in the Array 
+-----------------------------------
+47) Write a Program to Find the Second Smallest Element in the Array 
+-----------------------------------
+48) Write a Program to Find the Second Largest Element in the Array 
+-----------------------------------
+49) Write  a Program to Find the Sum of All Elements of The Array 
+-----------------------------------
+50) Write a Program to Reverse the Array
+-----------------------------------
