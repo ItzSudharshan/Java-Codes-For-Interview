@@ -1,0 +1,56 @@
+51) Write a Program to Sort first half of the Array in Ascending order and remaining half of the array in descending order
+--------------------------------------------------------------------------------------------------------------------------
+52) Write a program to Sort the Array and Display the Array 
+--------------------------------------------------------------------------------------------------------------------------
+53) Write a Program to Count the Frequency of the Elements in the Array 
+--------------------------------------------------------------------------------------------------------------------------
+54) Write a Program to Sort the Elements By its Frequency
+--------------------------------------------------------------------------------------------------------------------------
+55) Write a Program Display the Distinct elements in the array along with the Count of Distinct elements 
+--------------------------------------------------------------------------------------------------------------------------
+56) Write a Program to Display Only Repeating Elements in the Array 
+--------------------------------------------------------------------------------------------------------------------------
+57) Write  a Program to Display Non Repeating Elements in the Array 
+--------------------------------------------------------------------------------------------------------------------------
+58) Write a Program to Get the Count of Odd and Even Number of Elements in the Array 
+--------------------------------------------------------------------------------------------------------------------------
+59) Write a Program to Get the ASCII Value of the Given Character 
+--------------------------------------------------------------------------------------------------------------------------
+60) Write a Program to Find the Length of the String without using Length Function 
+--------------------------------------------------------------------------------------------------------------------------
+61) //Program to toggle the String (Uppercase to LowerCase and LowerCase to UpperCase )
+--------------------------------------------------------------------------------------------------------------------------
+62) Write a Program to Count the Number of Vowels 
+--------------------------------------------------------------------------------------------------------------------------
+63) Write a Program to Remove all the Vowels from the String
+--------------------------------------------------------------------------------------------------------------------------
+64)Write a Program to Check if String is Palidnrome or Not 
+--------------------------------------------------------------------------------------------------------------------------
+65) Write a Program to Reverse the String 
+--------------------------------------------------------------------------------------------------------------------------
+66) Write A Program to //Remove characters from the String Except Alphabets
+--------------------------------------------------------------------------------------------------------------------------
+67) Write a Program to Remove All Brackets from the String 
+--------------------------------------------------------------------------------------------------------------------------
+68) Write a Program tO reverse the Entire Sentence 
+--------------------------------------------------------------------------------------------------------------------------
+69) Write a Program to Return the Number from the Entire String 
+--------------------------------------------------------------------------------------------------------------------------
+70)Write a Program to Capitalize First and Last letter of Each word in a Sentence
+--------------------------------------------------------------------------------------------------------------------------
+71) Write a Program to check the Frequency of the Character
+--------------------------------------------------------------------------------------------------------------------------
+72) Write a Program to Display Only Repeated characters
+--------------------------------------------------------------------------------------------------------------------------
+73) Write a Program to Display First Non Repeating Character
+--------------------------------------------------------------------------------------------------------------------------
+74) Write a Program to Check if a String is Anagram or Not 
+An anagram is a word or phrase formed by rearranging the letters of another word or phrase, using all the original letters exactly once.
+Word 1: listen
+Word 2: silent
+--------------------------------------------------------------------------------------------------------------------------
+75) Write a Program to Replace a String with a Substring 
+--------------------------------------------------------------------------------------------------------------------------
+76) Write  a program to Remove All Occurances of the Specified Word
+--------------------------------------------------------------------------------------------------------------------------
+77) 
