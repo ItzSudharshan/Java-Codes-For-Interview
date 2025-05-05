@@ -1,0 +1,37 @@
+82) Write a Program to Extract Digits from the Given String 
+--------------------------------------------------------------------------------------------------------------------
+83) Write a Program to Capitalize Each Word of the Sentence
+--------------------------------------------------------------------------------------------------------------------
+84) Write a Program For  String Rotation Check
+Write a Java program that checks if one string is a rotation of another string. Your program should:
+Ask the user to input two strings.
+Check if the second string is a rotation of the first string.
+Print whether or not the second string is a rotation of the first string.
+--------------------------------------------------------------------------------------------------------------------
+85) Write a Program to  get Longest Substring Without Repeating Characters . Also display the Count (Sliding Window Problem)
+--------------------------------------------------------------------------------------------------------------------
+86) Write a Program to 
+ Regex Pattern Validator
+Write a Java program that checks if a given regex pattern is valid. Your program should:
+Prompt the user to input a regex pattern.
+Use exception handling to determine if the pattern is valid.
+Print whether the pattern is valid or not.
+Sample Input:
+[a-zA-Z0-9]+
+Sample Output:
+The pattern '[a-zA-Z0-9]+' is valid.
+--------------------------------------------------------------------------------------------------------------------
+87) Write a Program to Reverse a String without Temp Variable or using For Loop 
+--------------------------------------------------------------------------------------------------------------------
+88) Write a Program to check  Palindrome Swapping in String
+Write a Java program that checks if a string can be rearranged to form a palindrome by swapping characters. Your program should:
+Ask the user to input a string.
+Determine if the string can be rearranged to form a palindrome.
+Print whether the string can form a palindrome or not.
+--------------------------------------------------------------------------------------------------------------------
+89) Write a Java program that takes a sentence as input and performs the following tasks:
+    Extracts all the vowels (both uppercase and lowercase) from the sentence and reverses their order.
+    Extracts all the consonants from the sentence while keeping their original order.
+    Prints the reversed vowel sequence and the consonant sequence separately.
+    Checks whether the reversed vowel sequence and the consonant sequence are palindromes.
+--------------------------------------------------------------------------------------------------------------------
