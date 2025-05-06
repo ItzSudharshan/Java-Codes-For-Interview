@@ -34,4 +34,4 @@ Print whether the string can form a palindrome or not.
     Extracts all the consonants from the sentence while keeping their original order.
     Prints the reversed vowel sequence and the consonant sequence separately.
     Checks whether the reversed vowel sequence and the consonant sequence are palindromes.
---------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
