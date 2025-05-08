@@ -51,3 +51,15 @@ Determine the longest consecutive period where an employee worked more than 6 ho
 Sample Output
 3
 --------------------------------------------------------------------------------------------------------
+94) Write a Program to perform Addition without plus Operator 
+--------------------------------------------------------------------------------------------------------
+95) Write a Program to Append Character Frequency 
+--------------------------------------------------------------------------------------------------------
+96) Write a Priogram to get the Kth largest element 
+--------------------------------------------------------------------------------------------------------
+97) Write a Program to get the Kth Smallest Element 
+--------------------------------------------------------------------------------------------------------
+98) Write a program to display the Character which is Repeating the Most Number of Time (max) and Display it 
+--------------------------------------------------------------------------------------------------------
+99) Write a Program to Display the Most Occuring Integer with most Occuring Frequency
+--------------------------------------------------------------------------------------------------------
